@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md.md",
+            "file": "稳定币.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 242.5
   },
   "right": {
     "id": "9f1339192aa06029",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md.md",
+                "file": "稳定币.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md.md",
+                "file": "稳定币.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md.md"
+                "file": "稳定币.md"
               }
             }
           }
@@ -131,8 +131,10 @@
   "active": "a4b037478b08a300",
   "lastOpenFiles": [
     "概述.md",
+    "DEX.md",
     "README.md.md",
     "架构.md",
+    "稳定币.md",
     "Snipaste_2022-08-04_22-56-55.png.md",
     "Snipaste_2022-08-04_23-13-02.png",
     "Snipaste_2022-08-04_23-10-21.png",
