@@ -12,7 +12,7 @@
 
 [稳定币](./稳定币.md)
 
-借贷
+[借贷](./借贷.md)
 
 去中心化交易所
 
@@ -34,4 +34,4 @@
 
 [DeFi Mooc Youtube Channel](https://www.youtube.com/channel/UCB67PxhB5LAWEbI4etQS7aw)
 
-[DeFi Mooc中文翻译组](https://space.bilibili.com/1522784883/video)
+[DeFi Mooc 中文翻译组](https://space.bilibili.com/1522784883/video)
