@@ -8,7 +8,9 @@ Dencentralized Finance, 去中心化金融,，是一场能够让用户在无需�
 
 ## 传统金融 CeFi 的特征
 
+<div align="center">
 <img title="" src="assets/Snipaste_2022-08-04_22-56-55.png" alt="">
+</div>
 
 传统金融系统是由人来管理的，并且会受政策监管，因而容易遭受与人相关的风险，比如管理不善和腐败。
 
@@ -16,11 +18,15 @@ Dencentralized Finance, 去中心化金融,，是一场能够让用户在无需�
 
 ## 传统金融 CeFi 与 DeFi 的对比
 
+<div align="center">
 <img title="" src="assets/Snipaste_2022-08-04_23-13-02.png" alt="">
+</div>
 
 **DeFi 的优势**：
 
+<div align="center">
 <img title="" src="assets/Snipaste_2022-08-04_23-28-02.png" alt="">
+</div>
 
 ### 如何界定 Defi？
 
@@ -46,12 +52,14 @@ DeFi 必须满足的三个特征：
 
 #### 交易所 DEX vs CEX
 
+<div align="center">
 <img title="" src="assets/Snipaste_2022-08-04_23-58-40.png" alt="">
 <img title="" src="assets/Snipaste_2022-08-04_23-58-59.png" alt="">
 
 <h3 align="center">去中心化借贷</h3>
 
 <img title="" src="assets/Snipaste_2022-08-05_00-00-26.png" alt="">
+</div>
 
 <h3 align="center">稳定币</h3>
 
@@ -67,6 +75,7 @@ DeFi 必须满足的三个特征：
 
 ## DeFi 的架构
 
+<div align="center">
 <img title="" src="assets/Snipaste_2022-08-04_23-34-42.png" alt="">
-
+</div>
 从下至上分别是结算层、资产层、协议层、应用层与聚合层。
