@@ -10,20 +10,24 @@
 
 合约需要知道抵押代币可以兑换多少稳定币，以及何时执行清算。
 
+<div align="center">
 <img title="" src="assets/2022-09-08-16-34-02-image.png" alt="" width="558">
+</div>
 
 ### 参数化保险
 
+<div align="center">
 <img src="assets/2022-09-08-16-32-40-image.png" title="" alt="" width="593">
+</div>
 
 ### 其他应用：
 
 - 赌博应用，e.g.赌球
 - 包装的加密货币
 - 合成资产
-- DEX实时报价降低套利空间
+- DEX 实时报价降低套利空间
 
-实际上，几乎所有的DeFi应用都用到了预言机。 
+实际上，几乎所有的 DeFi 应用都用到了预言机。
 
 ## 预言机的基础设计
 
@@ -37,10 +41,14 @@
 
 ## 预言机攻击
 
-经典案例：bZx价格预言机攻击
+经典案例：bZx 价格预言机攻击
 
+<div align="center">
 <img title="" src="assets/2022-09-08-20-07-59-image.png" alt="" width="1011">
+</div>
 
 ## 预言机隐私保护
 
-<img title="" src="assets/2022-09-08-22-24-04-image.png" alt="" width="594">  
+<div align="center">
+<img title="" src="assets/2022-09-08-22-24-04-image.png" alt="" width="594">
+</div>
