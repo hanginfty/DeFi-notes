@@ -18,9 +18,7 @@
 
 - [**Curve**: 加密市场的造血机器](./DEX/curve.md)
 
-衍生品
-
-保险
+[合成资产与衍生品](./synthetic_and_derivatives.md)
 
 [预言机](./oracle.md)
 
