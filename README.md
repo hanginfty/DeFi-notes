@@ -16,13 +16,13 @@
 
 [去中心化交易所](./DEX.md)
 
-- [**Curve**: 加密市场的造血机器](./DEX/curve.md)
+- [**Curve**: 加密市场的造血机器](./DEX/Curve.md)
 
 [合成资产与衍生品](./synthetic_and_derivatives.md)
 
 [预言机](./oracle.md)
 
-[安全](./security.md)
+[合约安全](./contract_security.md)
 
 ...
 
