@@ -1,13 +1,11 @@
-<h1 align="center">
-[持续更新]
-关于DeFi的一切
-</h1>
 
-**2022-9-16 Update:   为了更好的编辑与阅读体验，本仓库内容已经迁移到Notion，本仓库内容不再更新。
+2022-9-16 Update:   为了更好的编辑与阅读体验，本仓库内容已经迁移到Notion，本仓库内容不再更新。
 
 Notion阅读链接： https://hanginfty.vercel.app/%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0-defi-%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B0
 
-
+<h2 align="center">
+关于DeFi的一切
+</h2>
 
 
 这里记录了个人学习`DeFi`的笔记。如果你想快速了解`DeFi`的概念和应用，希望可以帮助到你。
